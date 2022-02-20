@@ -1,0 +1,1 @@
+// For solving the above question just remember the line : We need to find out the minimum difference between the maximum and the minimum element in every subarray of size m.
